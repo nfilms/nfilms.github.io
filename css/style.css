@@ -2161,7 +2161,7 @@ a.to-top:before {
 }
 .home-bg .image-box .home-bg-text, #console {
 	font-size: 25px;
-	font-family: "Myriad Pro", sans-serif;
+	font-family: "Myriad Pro", Myriad, "Helvetica Neue", Helvetica, sans-serif;
 	color: #ffffff;
 	position: absolute;
 	bottom: 64px;
