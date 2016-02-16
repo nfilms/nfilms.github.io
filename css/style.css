@@ -296,12 +296,12 @@ ul.nav li {
 }
 #header ul.nav li a {
 	font-size: 13px;
-	color: #202020;
+	color: #fff;
 	padding: 3px;
 }
 #header ul.nav li a:hover, #header ul.nav li.active a,
 #header .cart a.active {
-	color:#db3a1b;
+	color:#e54848;
 }
 #header ul.nav li  span.fa.fa-angle-right{display:block;position:absolute;right:20px;top:20%;width:4px;height:13px;transition: all 0.3s ease-in;
 	-moz-transition: all 0.3s ease-in;
@@ -2161,6 +2161,7 @@ a.to-top:before {
 }
 .home-bg .image-box .home-bg-text, #console {
 	font-size: 25px;
+	font-family: "Myriad Pro", sans-serif;
 	color: #ffffff;
 	position: absolute;
 	bottom: 64px;
