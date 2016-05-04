@@ -558,7 +558,7 @@ ul.count-list li:first-child i {
 }
 ul.count-list li h4, ul.icon-boxes-list li h4 {
 	font-size: 16px;
-	color: #202020;
+	color: #ffffff;
 	margin-top: 9px;
 	text-transform: uppercase;
 	margin-bottom: 12px;
@@ -597,7 +597,7 @@ ul.icon-boxes-list li:last-child i {
 }
 .icon-boxes:before {
 	font-size: 26px;
-	color: #95abb8;
+	color: #ffffff;
 	font-family: 'FontAwesome';
 }
 ul.icon-boxes-list li a{display:block;}
