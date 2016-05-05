@@ -947,7 +947,7 @@ ul.team-list li ul li a, ul.social-individual-list li a {
 ul.team-list li ul li a:before, ul.social-individual-list li a:before {
 	font-family: 'FontAwesome';
 	font-size: 15px;
-	color: #434343;
+	color: #ffffff;
 	transition: all 0.3s ease-in;
 	-moz-transition: all 0.3s ease-in;
 	-webkit-transition: all 0.3s ease-in;
