@@ -1908,7 +1908,7 @@ ul.gallery-grid-title-list li, ul.optionset li {
 }
 
 ul.gallery-grid-title-list li button.button, ul.optionset li a {
-	font-size: 11px;
+	font-size: 14px;
 	color: #777777;
 	transition: all 0.3s ease-in;
 	-moz-transition: all 0.3s ease-in;
