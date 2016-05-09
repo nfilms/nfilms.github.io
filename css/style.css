@@ -14,7 +14,7 @@ Project: SolarWind
 */
 
 html, body {
-	background: #11394c;
+	background: #616161;
 	margin: 0;
 	padding: 0;
 	width: 100%;
@@ -849,8 +849,8 @@ ul.gallery-list li:hover a {
 	margin-bottom: 45px;
 }
 .promo-text-box h2 {
-	font-size: 30px;
-	color: #161616;
+	font-size: 25px;
+	color: #777777;
 	margin: 0 0 19px 0;
 	padding-left: 3px;
 }
