@@ -850,13 +850,13 @@ ul.gallery-list li:hover a {
 }
 .promo-text-box h2 {
 	font-size: 2px;
-	color: #C7C7C7;
+	color: #AFAFAF;
 	margin: 0 0 19px 0;
 	padding-left: 3px;
 }
 .promo-text-box p, .promo-text-box-total p {
 	font-size: 13px;
-	color: #95abb8;
+	color: #C7C7C7;
 	line-height:20px;
 	padding-right: 1px;
 	margin-bottom: 40px;
@@ -918,7 +918,7 @@ ul.team-list li .name {
 }
 ul.team-list li .work {
 	font-size: 11px;
-	color: #C7C7C7;
+	color: #777777;
 	margin-bottom: 12px;
 }
 ul.team-list li .text p {
