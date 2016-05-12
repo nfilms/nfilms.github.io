@@ -1336,7 +1336,7 @@ ul.progress-bars-list li .percent:before, ul.progress-bars-list li .percent:afte
 	background-color: #202020;
 }
 ul.progress-bars-list li .percent:after {
-	width: 108px;
+	width: 143px;
 	height: 3px;
 	bottom: -12px;
 	background-color: #db3a1b;
