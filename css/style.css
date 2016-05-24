@@ -263,10 +263,10 @@ ul.normal-ul li:before {
 }
 /* LOGO */
 a.logo img{
-	width: 179px;
-	height: 34px;
+	width: 120px;
+	height: 70px;
 	margin-left: 0;
-	margin-top: 23px;
+	margin-top: 0px;
 }
 
 /* NAVIGATION */
