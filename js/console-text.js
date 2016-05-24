@@ -1,5 +1,5 @@
 //function([string1, string2],target id,[color1,color2]) 
-   consoleText([''], 'text',['#fff']);   
+   consoleText(['If You Want to Save Good Memories,', 'If You Want Relax,'], 'text',['#fff']);   
 
 
 
