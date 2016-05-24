@@ -1,4 +1,8 @@
-/*
+@@ -299,6 +299,307 @@ ul.nav li {
+	color: #202020;
+	padding: 3px;
+}
+#header ul.nav li a:hover, #header ul.nav li.active a,/*
 [Master Stylesheet]
 Project: SolarWind
 
@@ -300,6 +304,13 @@ ul.nav li {
 	padding: 3px;
 }
 #header ul.nav li a:hover, #header ul.nav li.active a,
+#header .cart a.active {
+	color:#db3a1b;
+@@ -5869,4 +6170,5574 @@ iframe {
+.irs-from,
+.irs-to {
+	visibility: visible !important;
+}
 #header .cart a.active {
 	color:#db3a1b;
 }
@@ -5869,4 +5880,4 @@ iframe {
 .irs-from,
 .irs-to {
 	visibility: visible !important;
-}
+} 
