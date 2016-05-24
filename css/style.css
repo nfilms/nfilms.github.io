@@ -21,7 +21,7 @@ html, body {
 	height: 100% !important;
 	color: #434343;
 	font-size: 13px;
-	font-family: 'inconsolataregular';
+	font-family: ''ralewayregular', sans-serif';
 	z-index: 1;
 	position: relative;
 	-moz-osx-font-smoothing:grayscale;
